@@ -14,7 +14,7 @@ This is the official repository for the Frame-Recurrent Video Super-Resolution p
 <https://arxiv.org/abs/1801.04590>
 
 ## Training dataset
-[Click here for the list of urls used to train FRVSR.](dataset_train.txt)
+[dataset_train.txt](dataset_train.txt)
 
 ## BibTex citation
 ```
