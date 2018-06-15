@@ -7,11 +7,14 @@ This is the official repository for the Frame-Recurrent Video Super-Resolution p
 ![demo](demo.gif)
 (left: low-resolution input, middle: FRVSR output, right: high-resolution ground truth)
 
-### More videos:
+### More videos
 <https://vimeo.com/album/5053944>
 
 ## Paper
 <https://arxiv.org/abs/1801.04590>
+
+## Training dataset
+[Click here for the list of urls used to train FRVSR.](dataset_train.txt)
 
 ## BibTex citation
 ```
