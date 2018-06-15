@@ -14,7 +14,9 @@ This is the official repository for the Frame-Recurrent Video Super-Resolution p
 <https://arxiv.org/abs/1801.04590>
 
 ## Training dataset
-[dataset_train.txt](dataset_train.txt)
+1. Download the source file [dataset_train.txt](dataset_train.txt)
+2. Install [youtube-dl](https://rg3.github.io/youtube-dl/)
+3. Run `youtube-dl -civ --batch-file=dataset_train.txt`
 
 ## BibTex citation
 ```
