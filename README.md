@@ -23,7 +23,8 @@ This is the official repository for the Frame-Recurrent Video Super-Resolution p
 @inproceedings{frvsr,
   title={{Frame-Recurrent Video Super-Resolution}},
   author={Sajjadi, Mehdi S. M. and Vemulapalli, Raviteja and Brown, Matthew},
-  booktitle={{Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  booktitle = {{The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  month = {June},
   year={2018}
 }
 ```
