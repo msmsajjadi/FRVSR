@@ -10,8 +10,9 @@ This is the official repository for the Frame-Recurrent Video Super-Resolution p
 ### More videos
 <https://vimeo.com/album/5053944>
 
-## Paper
-<https://arxiv.org/abs/1801.04590>
+## Paper and Poster
+Paper (arXiv link): <https://arxiv.org/abs/1801.04590>
+Poster (in this repository): [poster.pdf](poster.pdf)
 
 ## Training dataset
 1. Download the source file [dataset_train.txt](dataset_train.txt)
