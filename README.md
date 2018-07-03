@@ -30,4 +30,4 @@ This is the official repository for the Frame-Recurrent Video Super-Resolution p
 }
 ```
 
-See also <http://msajjadi.com>.
+For any questions, comments or help to get it to run, please don't hesitate to mail us: <msajjadi@tue.mpg.de>
