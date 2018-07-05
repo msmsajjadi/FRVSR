@@ -10,6 +10,11 @@ This is the official repository for the Frame-Recurrent Video Super-Resolution p
 ### More videos
 <https://vimeo.com/album/5053944>
 
+### Vid4
+(link coming soon)
+
+For download: These are the original HR frames of the Vid4 dataset, our downscaled LR frames and the estimated HR frames by FRVSR 10-128. Please note that the blur kernel size for downscaling was chosen to maximize Video-PSNR rather than perceptual quality and as such, the input videos may be slightly aliased (not enough blur), leading to perceptually unoptimal results. As we show in the paper, FRVSR beats the sliding-window baseline for all blur sizes and the the results of FRVSR are significantly more temporally consistent.
+
 ## Paper and Poster
 - Paper (arXiv link): <https://arxiv.org/abs/1801.04590>
 - Poster (in this repository): [poster.pdf](poster.pdf)
