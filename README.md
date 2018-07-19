@@ -22,6 +22,8 @@ This is the official repository for the Frame-Recurrent Video Super-Resolution p
 2. Install [youtube-dl](https://rg3.github.io/youtube-dl/)
 3. Run `youtube-dl -civ --batch-file=dataset_train.txt`
 
+Please note that some of the videos may be unavailable by now.
+
 ## BibTex citation
 ```
 @inproceedings{frvsr,
