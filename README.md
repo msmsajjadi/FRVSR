@@ -11,7 +11,7 @@ This is the official repository for the Frame-Recurrent Video Super-Resolution p
 <https://vimeo.com/album/5053944>
 
 ### Vid4 dataset
-(link coming soon)
+<https://owncloud.tuebingen.mpg.de/index.php/s/2AFqCHjHFtqezR9>
 
 ## Paper and Poster
 - Paper (arXiv link): <https://arxiv.org/abs/1801.04590>
