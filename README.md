@@ -1,6 +1,6 @@
 # Frame-Recurrent Video Super-Resolution
 
-This is the official repository for the Frame-Recurrent Video Super-Resolution project by Mehdi S. M. Sajjadi, Raviteja Vemulapalli and Matthew Brown, presented at CVPR 2018.
+This is the official repository for the [Frame-Recurrent Video Super-Resolution](https://arxiv.org/abs/1801.04590) project by [Mehdi S. M. Sajjadi](http://msajjadi.com/), [Raviteja Vemulapalli](http://ravitejav.weebly.com/) and [Matthew Brown](http://matthewalunbrown.com/research/research.html), presented at [CVPR 2018](http://cvpr2018.thecvf.com/).
 
 
 ## Results
